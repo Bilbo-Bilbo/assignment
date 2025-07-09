@@ -1,1 +1,1 @@
-Methodology for solving image classification problems.
+Here is the Python code for cifar10 image recognition.
